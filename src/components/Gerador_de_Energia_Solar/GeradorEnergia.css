@@ -1,0 +1,37 @@
+.GeneratorBody{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.Generator{
+    text-transform: uppercase;
+    font-family: "Raleway";
+    font-size: 35px;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+
+.DayTime{
+    font-family: "Raleway";
+    font-size: 25px;
+    font-weight: 500;
+    margin-top: 10px;
+}
+
+.HouseDiv{
+    justify-content: center;
+    display: flex;
+    padding-top: 40px;
+}
+
+.House{
+    color: rgb(222, 184, 135);
+}
+
+.Energy{
+    font-family: "Raleway";
+    font-size: 25px;
+    font-weight: 500;
+}
